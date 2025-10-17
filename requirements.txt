@@ -1,0 +1,6 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+flask-socketio==5.3.6
+python-socketio==5.9.0
+eventlet==0.33.3
+psutil==5.9.6
